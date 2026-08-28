@@ -1,67 +1,67 @@
 # CSE326 — Social and Professional Issues in Computing
 
-> **Academic Course Repository | Daffodil International University (DIU)**
+![Course](https://img.shields.io/badge/Course-CSE326-blue.svg)
+![University](https://img.shields.io/badge/Daffodil%20International%20University-DIU-orange.svg)
+![Status](https://img.shields.io/badge/Status-Semester%20Completed-brightgreen.svg)
+![Type](https://img.shields.io/badge/Type-Academic%20Archive-lightgrey.svg)
 
-This repository contains my academic materials, coursework, assignments, study notes, presentations, examination materials, and other learning resources for **CSE326: Social and Professional Issues in Computing**.
+An organized academic archive of my coursework for **CSE326: Social and Professional Issues in Computing** at **Daffodil International University**, covering assignments, exam preparation materials, presentations, personal notes, and reference resources collected throughout the semester.
 
-The repository was created to organize and preserve course-related materials in a structured and accessible way for academic study, revision, and future reference.
+---
+
+## 📖 Table of Contents
+
+- [Overview](#-overview)
+- [Course Overview](#-course-overview)
+- [Repository Structure](#-repository-structure)
+- [Contents](#-contents)
+- [Learning Focus](#-learning-focus)
+- [Tools & Resources Used](#-tools--resources-used)
+- [Acknowledgements](#-acknowledgements)
+- [Disclaimer](#-disclaimer)
+- [Author](#-author)
+- [License & Usage](#-license--usage)
+
+---
+
+## 🎯 Overview
+
+This repository is **not a single project** — it is a structured collection of everything I studied, submitted, and prepared throughout the semester for **CSE326: Social and Professional Issues in Computing**. Unlike a technical/coding course, CSE326 focuses on the ethical, legal, social, and professional dimensions of working as a computing professional — so this repository holds assignments, midterm/final materials, presentation slides, quiz prep, personal notes, and the official course outline, all organized in one place for easy review and future reference.
 
 ---
 
 ## 📚 Course Overview
 
-**CSE326 — Social and Professional Issues in Computing** focuses on the broader responsibilities and challenges associated with computing and information technology.
+**CSE326 — Social and Professional Issues in Computing** explores the broader responsibilities that come with a career in computing and information technology — beyond just writing code.
 
-The course covers important areas such as:
+Key areas covered in this course include:
 
-* Professional responsibilities in computing
-* Computer ethics and ethical decision-making
-* Social impacts of computing
-* Privacy and data protection
-* Intellectual property and copyright
-* Computer-related laws and regulations
-* Professional codes of conduct
-* Security and responsible use of technology
-* Ethical issues in software and computing systems
-* Responsibilities of computing professionals toward society
-* Social and professional consequences of emerging technologies
-* The role of computing professionals in modern society
-
-The repository brings together the materials studied throughout the course in one organized location.
+- Professional responsibilities in computing
+- Computer ethics and ethical decision-making
+- Social impacts of computing and emerging technologies
+- Privacy and data protection
+- Intellectual property and copyright
+- Computer-related laws and regulations
+- Professional codes of conduct
+- Security and responsible use of technology
+- Ethical issues in software and computing systems
+- The role and responsibility of computing professionals toward society
 
 ---
 
 ## 🗂️ Repository Structure
 
-The repository is organized into several sections according to the type and purpose of the materials.
-
-```text
+```
 CSE326-Social-and-Professional-Issues-in-Computing/
 │
-├── Assignment/
-│   └── Course assignments and related academic materials
-│
-├── Book/
-│   └── Reference books and supporting reading materials
-│
-├── Final/
-│   └── Final examination-related materials
-│
-├── Midterm/
-│   └── Midterm examination-related materials
-│
-├── My Notes/
-│   └── Personal study notes and summarized concepts
-│
-├── Outline/
-│   └── Course outline and syllabus-related materials
-│
-├── Presentation/
-│   └── Presentation slides and presentation-related resources
-│
-├── Quiz/
-│   └── Quiz-related materials and preparation resources
-│
+├── Assignment/       # Submitted course assignments
+├── Book/              # Reference books and supporting reading materials
+├── Final/             # Final examination-related materials
+├── Midterm/           # Midterm examination-related materials
+├── My Notes/           # Personal study notes and summarized concepts
+├── Outline/            # Official course outline / syllabus
+├── Presentation/        # Presentation slides and related resources
+├── Quiz/                # Quiz preparation materials
 └── README.md
 ```
 
@@ -70,202 +70,105 @@ CSE326-Social-and-Professional-Issues-in-Computing/
 ## 📁 Contents
 
 ### 📝 Assignment
-
-Contains assignments and academic work completed as part of the CSE326 course.
-
-These materials represent different topics and activities covered throughout the semester.
+Submitted assignments covering different topics discussed throughout the semester, reflecting my understanding of the ethical and professional concepts taught in the course.
 
 ### 📖 Book
-
-Contains reference materials and selected reading resources used to understand course concepts in greater depth.
+Reference materials and selected readings used to build a deeper understanding of the course topics.
 
 ### 🎓 Midterm
-
-Contains materials related to midterm examination preparation, including relevant study resources and collected materials.
+Study materials and resources prepared for the midterm examination.
 
 ### 🎓 Final
-
-Contains final examination-related study materials and resources.
+Study materials and resources prepared for the final examination.
 
 ### 📒 My Notes
-
-Contains my personal notes, explanations, summaries, and organized study materials prepared while studying the course.
-
-This section is intended to make complex concepts easier to review and revise.
+Personal notes, simplified explanations, and summarized concepts written while studying — organized to make revision faster and easier.
 
 ### 📋 Outline
-
-Contains the course outline and related syllabus information used to understand the overall structure and scope of CSE326.
+The official course outline/syllabus, used as a reference for the scope and structure of CSE326.
 
 ### 🎤 Presentation
-
-Contains presentation-related materials prepared for the course, including slides and supporting resources.
+Slides and supporting materials prepared for in-class presentations during the course.
 
 ### ❓ Quiz
-
-Contains quiz-related materials and resources used for preparation and revision.
-
----
-
-## 🎯 Purpose of This Repository
-
-The main objectives of this repository are to:
-
-* Keep all CSE326 materials organized in one place.
-* Maintain a structured academic record of the course.
-* Make revision easier before examinations.
-* Preserve assignments, notes, presentations, and other coursework.
-* Provide a convenient reference for important concepts.
-* Develop better documentation and version-control practices using Git and GitHub.
-* Build a reusable academic resource for future reference.
+Materials and notes used to prepare for quizzes conducted throughout the semester.
 
 ---
 
 ## 🧠 Learning Focus
 
-Through this course, I explored how computing is connected not only to technology but also to **society, law, ethics, professional responsibility, and human values**.
+This course connected computing not just to technology, but to **society, law, ethics, and professional responsibility**. Key learning areas included:
 
-Some of the key learning areas include:
-
-### Ethics in Computing
-
-Understanding how computing professionals should make responsible and ethical decisions when designing, developing, deploying, and maintaining technological systems.
-
-### Professional Responsibility
-
-Learning about the responsibilities of software developers, engineers, IT professionals, and other computing professionals toward employers, users, colleagues, and society.
-
-### Privacy
-
-Understanding the importance of protecting personal information and considering privacy implications when collecting, storing, processing, and sharing data.
-
-### Intellectual Property
-
-Learning about concepts such as copyright, patents, licensing, software ownership, and responsible use of intellectual property.
-
-### Social Impact of Technology
-
-Analyzing how computing technologies can influence individuals, organizations, communities, and society as a whole.
-
-### Legal and Regulatory Issues
-
-Understanding why computing professionals need to consider applicable laws, regulations, policies, and professional standards when developing and using technology.
-
-### Responsible Use of Emerging Technologies
-
-Considering the ethical and professional challenges introduced by modern technologies such as artificial intelligence, automation, data-driven systems, and other emerging computing technologies.
+- **Ethics in Computing** — making responsible, ethical decisions when designing, building, and maintaining technology
+- **Professional Responsibility** — obligations of computing professionals toward employers, users, colleagues, and society
+- **Privacy** — protecting personal data and considering privacy implications in system design
+- **Intellectual Property** — copyright, patents, licensing, and responsible use of others' work
+- **Social Impact of Technology** — how computing shapes individuals, organizations, and communities
+- **Legal & Regulatory Issues** — laws, regulations, and standards relevant to computing professionals
+- **Responsible Use of Emerging Technologies** — ethical challenges introduced by AI, automation, and data-driven systems
 
 ---
 
 ## 🛠️ Tools & Resources Used
 
-The preparation and organization of this repository involved a combination of academic resources, reference materials, and digital tools.
+**Academic Resources:**
+- Course lectures and instructor-provided materials
+- Lecture slides and course PDFs
+- Reference books and academic reading materials
+- Personal study notes
 
-### Academic Resources
-
-* Course lectures and instructor-provided materials
-* Lecture slides
-* Course-related PDFs
-* Reference books
-* Academic reading materials
-* Presentation materials
-* Personal study notes
-
-### Digital & AI-Assisted Tools
-
-AI-based tools were used where appropriate as **supporting resources** for understanding concepts, improving explanations, organizing information, brainstorming, reviewing content, and language refinement.
-
-These included:
-
-* **Google Gemini**
-* **OpenAI ChatGPT**
-* **Anthropic Claude**
-
-AI tools were used as supplementary assistance rather than as a replacement for academic sources, personal understanding, or instructor guidance. Important academic concepts and course materials were reviewed and organized based on the available course resources.
-
----
-
-## 📚 Sources & Acknowledgements
-
-I would like to acknowledge the academic and digital resources that supported the preparation of the materials in this repository.
-
-### Course & Academic Sources
-
-* Course lectures and materials provided by the respective course instructor(s)
-* Instructor-provided presentation slides
-* Recommended and reference books
-* Academic PDFs and reading materials
-* Other educational resources used for course-related study
-
-### AI-Assisted Resources
-
-I also acknowledge the use of the following AI-based tools as supplementary learning and productivity resources:
-
-* **Google Gemini** — for explanations, brainstorming, summarization, and content organization.
-* **OpenAI ChatGPT** — for concept clarification, drafting assistance, explanations, revision, and language refinement.
-* **Anthropic Claude** — for explanations, reviewing content, and assisting with organization and refinement.
-
-These tools were used as supporting resources, while the final organization, selection, interpretation, and presentation of the repository materials were carried out as part of my academic work.
-
-> **Note:** Where materials originate from instructor-provided slides, books, PDFs, or other third-party academic sources, the original source and respective copyright ownership remain with their respective authors, instructors, publishers, or institutions.
-
----
-
-## ⚠️ Disclaimer
-
-This repository is intended primarily for **academic and educational purposes**.
-
-Some materials may have been collected from course lectures, instructor-provided resources, books, PDFs, presentations, or other educational sources. Such materials may remain subject to the copyrights and intellectual-property rights of their respective owners.
-
-The repository should not be considered an official publication or official course repository of Daffodil International University unless explicitly stated otherwise.
-
-If any copyrighted material has been included unintentionally or without appropriate attribution, please contact me so that the material can be properly attributed, corrected, or removed where necessary.
-
----
-
-## 📌 Academic Context
-
-**Course:** CSE326 — Social and Professional Issues in Computing
-**Program:** Bachelor of Science in Computer Science and Engineering (CSE)
-**Institution:** Daffodil International University (DIU)
-**Repository Type:** Academic Course Repository
-
----
-
-## 👨‍💻 Author
-
-**Shafin Ahmed**
-Computer Science and Engineering
-Daffodil International University
-
-GitHub: [@shafinahmedbd967-art](https://github.com/shafinahmedbd967-art)
-
----
-
-## ⭐ Repository Status
-
-This repository is maintained as an academic archive of my CSE326 coursework and learning materials.
-
-Materials may be updated, reorganized, or improved as the course progresses and additional academic resources become available.
-
----
-
-## 📄 License & Usage
-
-Unless otherwise stated, original notes and materials created by me are intended for educational use.
-
-Third-party materials included in the repository remain subject to their original licenses, copyrights, and intellectual-property rights.
-
-Please respect the rights of the original authors, instructors, publishers, and institutions when using any material from this repository.
+**Digital & AI-Assisted Tools:**
+AI-based tools were used as supporting resources — for understanding concepts, improving explanations, organizing information, and refining language — not as a replacement for course materials or personal understanding. These included:
+- **Google Gemini**
+- **OpenAI ChatGPT**
+- **Anthropic Claude**
 
 ---
 
 ## 🙏 Acknowledgements
 
-Special thanks to the course instructors, academic authors, publishers, educational resources, and learning platforms whose materials contributed to my understanding of **Social and Professional Issues in Computing**.
+Special thanks to the course instructor and the academic resources — lectures, textbooks, and reference materials — that supported my understanding of Social and Professional Issues in Computing throughout the semester.
 
-I also acknowledge **Google Gemini, OpenAI ChatGPT, and Anthropic Claude** for providing supplementary assistance during the learning, reviewing, organizing, and preparation process.
+I also acknowledge the use of **Google Gemini, OpenAI ChatGPT, and Anthropic Claude** as supplementary AI assistants during the learning, reviewing, and organizing process for the materials in this repository. These tools were used for support and clarification — the final understanding, selection, and presentation of the materials remain my own academic work.
+
+> Where materials originate from instructor-provided slides, textbooks, PDFs, or other third-party academic sources, the original copyright remains with the respective authors, instructors, publishers, or institutions.
 
 ---
 
-> **Learn responsibly. Build ethically. Use technology for society.**
+## ⚠️ Disclaimer
+
+This repository is intended primarily for **academic and educational purposes**. Some materials may originate from course lectures, instructor-provided resources, textbooks, or other educational sources, and may remain subject to the copyright of their respective owners.
+
+This repository is **not an official publication of Daffodil International University** unless explicitly stated otherwise. If any copyrighted material has been included unintentionally or without proper attribution, please reach out so it can be corrected or removed.
+
+---
+
+## 📌 Academic Context
+
+| | |
+|---|---|
+| **Course** | CSE326 — Social and Professional Issues in Computing |
+| **Program** | B.Sc. in Computer Science and Engineering (CSE) |
+| **Institution** | Daffodil International University (DIU) |
+| **Repository Type** | Academic Course Archive |
+
+---
+
+## 👤 Author
+
+**Shafin Ahmed**
+Department of Computer Science and Engineering
+Daffodil International University
+
+- GitHub: [@shafinahmedbd967-art](https://github.com/shafinahmedbd967-art)
+- Repository: [CSE326-Social-and-Professional-Issues-in-Computing](https://github.com/shafinahmedbd967-art/CSE326-Social-and-Professional-Issues-in-Computing)
+
+---
+
+## 📄 License & Usage
+
+Unless otherwise stated, original notes and materials created by me are shared here for educational use. Third-party materials included in this repository remain subject to their original licenses, copyrights, and intellectual property rights — please respect the rights of the original authors, instructors, publishers, and institutions when referencing any material from this repository.
+
+---
+
+<p align="center"><em>Learn responsibly. Build ethically. Use technology for society.</em></p>
